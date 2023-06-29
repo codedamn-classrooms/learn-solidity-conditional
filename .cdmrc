@@ -1,0 +1,2 @@
+tabs: ['contracts/IfElse.sol']
+terminals: ['yarn install']
