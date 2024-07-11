@@ -1,2 +1,3 @@
-tabs: ['contracts/IfElse.sol']
-terminals: ['yarn install']
+tabs: ["contracts/IfElse.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
